@@ -1,3 +1,18 @@
-/*body{
-	background-color: red;
-}*/
+.head {
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	
+}
+.box{
+	background-color: #ccc;
+	color: #fff border 2px;
+	height: 100px;
+	width: 100px;
+	border: 1px solid;
+	line-height: 10px;
+	text-align: center;
+	padding: 10px;
+	margin-top: 10px;
+	float: left;
+}

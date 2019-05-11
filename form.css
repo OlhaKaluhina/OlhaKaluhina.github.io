@@ -34,3 +34,10 @@
 .text{
 	margin: 25%;
 }
+/*@media (min-width: 1200px) {
+        .box {
+          width: 20%;
+          margin-top: 10px;
+        }
+    }*/
+        
